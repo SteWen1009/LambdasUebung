@@ -7,7 +7,7 @@ class HalloJavaMitForEach {
     public void run() {
         System.out.println("=== Beispiel 1: HalloJavaMitForEach ===");
 
-        List<String> liste = Arrays.asList("Hallo", "Java", "mit", "forEach");
+        List<String> liste = Arrays.asList("EVEN", "PRIME", "PALINDROME", "ODD", "NO PRIME");
 
         //alte Variante
         for (String s : liste) {
